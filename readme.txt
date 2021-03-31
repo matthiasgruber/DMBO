@@ -4,5 +4,3 @@ To run the scripts please install the following modules in the following steps:
 3. pip install git+https://github.com/nrontsis/PILCO
 4. phyton setup.py develop
 5. conda install -c conda-forge scikit-optimize
-
-take the freiburger repro
